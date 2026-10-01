@@ -1,0 +1,8 @@
+{
+  "name": "TigerShift",
+  "description": "แอปพลิเคชันจัดตารางและคำนวณค่ากะ OT สำหรับระบบหมุนเวียน 4 กะ 2 ผลัด โรงงานและนิคมอุตสาหกรรม บันทึกออฟไลน์ 100%",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
